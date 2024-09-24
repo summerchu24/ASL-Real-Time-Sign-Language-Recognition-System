@@ -1,6 +1,6 @@
-# Sign Language Recognition - SEP788 Final Project
+# ML-Gesture-Recognition-SVM-CNN-LSTM
 
-This repository contains the code and datasets for the SEP788 Final Project, focusing on the development of machine learning models for recognizing sign language gestures. The project explores various models to process video data and identify key hand and body movements.
+This repository contains a machine learning project for gesture recognition using Support Vector Machine (SVM) and CNN-LSTM models. The project focuses on recognizing sign language gestures from video data by extracting key hand and body landmarks with the help of **Google Mediapipe**.
 
 ## Project Overview
 
