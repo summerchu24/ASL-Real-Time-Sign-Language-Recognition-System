@@ -1,4 +1,4 @@
-# ASL-Real-Time-Sign-Language-Recognition-System
+# ASL Real-Time Sign Language Recognition System
 
 This repository contains a machine learning project for gesture recognition using Support Vector Machine (SVM) and CNN-LSTM models. The project focuses on recognizing sign language gestures from video data by extracting key hand and body landmarks with the help of **Google Mediapipe**.
 
